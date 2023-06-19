@@ -1,3 +1,5 @@
+// check the size of a variable using the sizeof() operator.
+
 #include <stdio.h>
 
 int main() {
